@@ -1,0 +1,6 @@
+{
+    "mirror": "https://dl.fedoraproject.org/pub/fedora/linux",
+    "fedora_version": "34",
+    "iso_version": "1.2",
+    "iso_checksum": "0b9dc87d060c7c4ef89f63db6d4d1597dd3feaf4d635ca051d87f5e8c89e8675"
+}
